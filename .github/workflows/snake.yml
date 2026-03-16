@@ -18,7 +18,8 @@ jobs:
 
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+       with:
+  github_token: ${{ secrets.GITHUB_TOKEN }}
+  publish_dir: ./dist
+  publish_branch: output
+  force_orphan: true
