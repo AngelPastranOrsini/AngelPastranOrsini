@@ -1,5 +1,11 @@
-## Hi there 👋
+## Angel Pastrán Orsini  
+### Backend Development | Data Analysis | Business Intelligence
 ![snake gif](https://github.com/AngelPastranOrsini/AngelPastranOrsini/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
+</p>
 # Angel Pastrán Orsini
 
 <p align="center">
@@ -27,20 +33,29 @@ Currently, I am strengthening my skills in software development, combining my ex
 ---
 
 ## Technologies
+### Languages & Development
 
-**Languages & Development**
-- Java  
-- SQL  
-- Git & GitHub  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
-**Tools & Environment**
-- IntelliJ IDEA  
-- Excel (Advanced – dashboards, KPIs, financial models)  
+---
 
-**Data & Analysis**
-- Financial Analysis (ROI, IRR, KPIs)  
-- Data-driven decision making  
-- Inventory optimization & cost control  
+### Tools & Environment
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=flat&logo=intellij-idea)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+### Data & Analysis
+
+![KPI](https://img.shields.io/badge/KPIs-Analysis-blue?style=flat)
+![ROI](https://img.shields.io/badge/ROI-Finance-green?style=flat)
+![IRR](https://img.shields.io/badge/IRR-Finance-green?style=flat)
+![Data Analysis](https://img.shields.io/badge/Data--Analysis-Insights-purple?style=flat)
+
 
 ---
 
