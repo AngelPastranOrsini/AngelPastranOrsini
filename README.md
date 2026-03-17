@@ -2,18 +2,19 @@
 ### Backend Development | Data Analysis | Business Intelligence
 ![snake gif](https://github.com/AngelPastranOrsini/AngelPastranOrsini/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
-</p>
-# Angel Pastrán Orsini
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AngelPastranOrsini&show_icons=true&theme=default"/>
 </p>
 
-DAM Student | Backend Development | Data Analysis  
-Bridging Business & Technology through data-driven solutions
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+---
+
+Turning business data into scalable and efficient solutions through software and analytics.
 
 ---
 
