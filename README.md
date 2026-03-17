@@ -62,42 +62,56 @@ Currently, I am strengthening my skills in software development, combining my ex
 
 ## Featured Projects
 
-### Financial KPI Dashboard
-Development of a financial dashboard to analyze profitability, ROI and IRR by client and business unit.
+### Sales Automation System (SQL + Java + BI) *(In Progress)*
 
-- Data modeling and KPI calculation  
-- Decision-oriented reporting  
-- Focus on business impact  
+End-to-end solution for automating sales reporting and KPI tracking.
+
+- Automated data extraction using SQL  
+- Data processing and transformation with Java  
+- KPI visualization through BI tools  
+- Scalable reporting structure for business decision-making  
+
+**Impact:**  
+Reduces manual reporting time and improves decision accuracy through real-time data insights.
+
+---
+
+### Financial KPI Dashboard
+
+Development of a financial analysis system focused on profitability and investment evaluation.
+
+- ROI, IRR and cash flow calculations  
+- Data modeling for financial analysis  
+- Business-oriented reporting  
+
+**Impact:**  
+Supports strategic decisions by providing clear financial performance indicators.
 
 ---
 
 ### Inventory Optimization Model
-Analysis of product rotation and stock levels across different locations.
 
-- Optimization of minimum and maximum stock  
-- Reduction of obsolescence  
-- Data-based logistics improvement  
+Data-driven model to optimize stock levels across multiple locations.
+
+- Product rotation analysis  
+- Min/Max stock optimization  
+- Obsolescence reduction strategy  
+
+**Impact:**  
+Improves inventory efficiency and reduces unnecessary stock costs.
 
 ---
 
 ### Coffee Machine ROI Analysis
-Financial model to evaluate investment in coffee machines (business model: razor & blades).
 
-- IRR, ROI and payback calculation  
-- Cash flow analysis  
-- Strategic investment decision support  
+Investment evaluation model based on a "razor & blades" business strategy.
 
----
+- Financial modeling and cash flow analysis  
+- ROI and payback period calculation  
+- Scenario-based decision support  
 
-### Sales Automation (SQL + BI) *(Planned / In Progress)*
-Automation of sales reporting integrating SQL and visualization tools.
-
-- Automated data extraction  
-- KPI tracking  
-- Scalable reporting system  
-
----
-
+**Impact:**  
+Enables data-backed investment decisions in commercial environments.
 ## GitHub Stats
 
 <p align="center">
